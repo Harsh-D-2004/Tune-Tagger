@@ -1,0 +1,22 @@
+# Logs
+Tune-tagger-frontend/logs
+Tune-tagger-frontend/*.log
+Tune-tagger-frontend/npm-debug.log*
+Tune-tagger-frontend/yarn-debug.log*
+Tune-tagger-frontend/yarn-error.log*
+Tune-tagger-frontend/pnpm-debug.log*
+Tune-tagger-frontend/lerna-debug.log*
+
+Tune-tagger-frontend/node_modules
+Tune-tagger-frontend/dist
+Tune-tagger-frontend/dist-ssr
+Tune-tagger-frontend/*.local
+
+# Editor directories and files
+Tune-tagger-frontend/.vscode/*
+Tune-tagger-frontend/!.vscode/extensions.json
+
+Tune-tagger-backend/.vscode/*
+!Tune-tagger-backend/.vscode/extensions.json
+Tune-tagger-backend/myenv
+Tune-tagger-backend/Dataset
